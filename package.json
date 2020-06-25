@@ -1,0 +1,14 @@
+{
+  "name": "shadowizard-sree",
+  "version": "1.0.1",
+  "description": "This is a sampele shadow wizard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Sree",
+  "license": "ISC"
+}
