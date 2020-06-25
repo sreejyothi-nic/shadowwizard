@@ -10,5 +10,13 @@
     "shadows"
   ],
   "author": "Sree",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreejyothi-nic/shadowwizard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sreejyothi-nic/shadowwizard/issues"
+  },
+  "homepage": "https://github.com/sreejyothi-nic/shadowwizard#readme"
 }
